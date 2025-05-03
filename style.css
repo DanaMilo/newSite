@@ -1,0 +1,98 @@
+h1 {
+    background-color: black;
+    border: 14px;
+    border-radius: 10px;
+}
+body {
+    color:rgb(70, 70, 192);
+    border: 5px margine red;
+
+}
+p{
+    color: rgb(255, 255, 255);
+    border: 1%;
+    background-color: black;
+    border-radius: 10px;
+}
+th, td{
+    border: 3px solid rgb(117, 100, 100);
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.IT{
+    width: 400px;
+    height: 300px;
+}
+.BrendUA{
+    width: 400px;
+    height: auto;
+}
+.LoveUA{
+    width: 100%;
+    height: auto;
+}
+.texstt{
+    background-color: rgb(186, 186, 186);
+}
+.shcool1 {
+    border: 14px;
+    background-color: rgb(192, 121, 206);
+    text-align: center;
+    border-radius: 6px;
+    border-width: 4px;
+    border: 3px solid rgb(88, 55, 114);
+
+}
+p{
+    background-color: rgb(142, 142, 142); 
+}
+.image-text-container {
+    display: flex; /* Встановлює елементи в один рядок */
+    align-items: center; /* Центрує елементи по вертикалі */
+    gap: 20px; /* Відстань між картинкою і текстом */
+    margin: 30px;
+}
+
+.image-text-container img {
+    width: 500px; 
+    height: auto;
+}
+
+.image-text-container p {
+    margin: 0;
+    font-size: 18px;
+}
+.st1{
+    background-color: rgb(255, 243, 132);
+}
+.mate{
+    width: 900px;
+    height: auto;
+}
+.st2{
+    background-color: gray;
+}
+.center-layout {
+    display: flex; /* Розташування в один рядок */
+    align-items: center; /* Вирівнювання по вертикалі */
+    justify-content: center; /* Все по центру горизонталі */
+    gap: 30px; /* Відстань між елементами */
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+.side-text {
+    font-size: 20px;
+    color: #333;
+}
+
+.center-layout img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px; /* Трошки округлих кутів для краси */
+}
+.st3{
+    background-color: rgb(161, 85, 50);
+}
