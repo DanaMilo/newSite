@@ -96,3 +96,18 @@ p{
 .st3{
     background-color: rgb(161, 85, 50);
 }
+.teext{
+    background-color: #333;
+}
+.hover-effect{
+  font-size: 22px;
+  color: #444;
+  transition: all 0.3s ease;
+}
+.hover-effect:hover {
+  color: #e74c3c;
+  transform: scale(1.05);
+}
+.MAMA{
+    
+}
